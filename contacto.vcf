@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Alarcón Peña;Mateo;;;
+FN:Mateo Alarcón Peña
+ORG:S.G.I. S.A.S.;Consultoría e Ingeniería
+TITLE:Ing. Mecatrónico
+TEL;TYPE=CELL,VOICE;VALUE=uri:tel:+573188351003
+EMAIL;TYPE=WORK,INTERNET:equipos.laboratorio@sgiltda.com
+URL;TYPE=WORK:https://sgisas.co/
+NOTE:Contacto de presentación - S.G.I. S.A.S.
+END:VCARD
